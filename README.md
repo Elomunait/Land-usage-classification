@@ -1,6 +1,3 @@
-```
-```
-
 
 # Land Usage Classification in Agriculture
 
@@ -58,5 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The dataset used in this project is credited to [Kaggle](https://www.kaggle.com/humansintheloop/semantic-segmentation-of-aerial-imagery).
 
-```
 
