@@ -1,4 +1,7 @@
-```markdown
+```
+```
+
+
 # Land Usage Classification in Agriculture
 
 ## Abstract
@@ -32,7 +35,9 @@ To replicate or experiment with this project, follow the steps outlined below.
 ```bash
 pip install -r requirements.txt
 ```
+```
 
+```
 ### Data Preparation
 
 Run the following command to download the necessary dataset:
